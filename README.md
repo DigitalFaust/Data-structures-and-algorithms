@@ -6,10 +6,10 @@ for trees.
 
 Descriptions of mentioned structres you can find everywhere in the Web, so I only notice to the time complexity in big O notation:
 1. BS tree: Average case   Worst case
-      - Space : O(n)          O(n) 
-      - Search: O(log n)      O(n)
-      - Insert: O(log n)      O(n)
-      - Delete: O(log n)      O(n)
+      - Space : O(n)       O(n) 
+      - Search: O(log n)   O(n)
+      - Insert: O(log n)   O(n)
+      - Delete: O(log n)   O(n)
 
 2.  AVL tree: Average case  Worst case
     - Space : O(n)          O(n)
