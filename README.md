@@ -1,5 +1,5 @@
 # Data_structures
-Here's implementations of data structures written in C++ such as a binary search tree (which named just as tree), an avl-tree, a linked list (disordered) and a hash-map.
+Here's written in C++ implementations of data structures such as a binary search tree (which named just as tree), an avl-tree, a linked list (disordered) and a hash-map.
 
 Every implementation of the structures use an iterative approach in order to avoid excessive calls of function, though a recursive method is more intuitive especially
 for trees.
