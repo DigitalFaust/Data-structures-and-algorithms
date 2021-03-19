@@ -18,6 +18,7 @@ Descriptions of mentioned structres you can find everywhere in the Web, so I onl
     - Delete: O(log n)      O(log n)
   
  3. Linked list: Average case  Worst case 
+        
         - Space: O(n)          O(n)  
        - Search: O(n)          O(n)
        - Insert: O(1)          O(1)
