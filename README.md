@@ -28,7 +28,7 @@ Descriptions of mentioned structres you can find everywhere in the Web, so I onl
  
  4. Hash-map: Average case Worst case
      
-        - Space: O(n)          O(n)  
+        - Space: O(n)           O(n)  
         - Search: O(1)          O(n)
         - Insert: O(1)          O(n)
         - Delete: O(1)          O(n)
