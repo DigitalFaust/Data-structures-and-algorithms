@@ -21,14 +21,14 @@ Descriptions of mentioned structres you can find everywhere in the Web, so I onl
   
  3. Linked list: Average case  Worst case 
         
-        - Space: O(n)           O(n)  
+        - Space:  O(n)          O(n)  
         - Search: O(n)          O(n)
         - Insert: O(1)          O(1)
         - Delete: O(1)          O(1)
  
  4. Hash-map: Average case Worst case
      
-        - Space: O(n)           O(n)  
+        - Space:  O(n)          O(n)  
         - Search: O(1)          O(n)
         - Insert: O(1)          O(n)
         - Delete: O(1)          O(n)
