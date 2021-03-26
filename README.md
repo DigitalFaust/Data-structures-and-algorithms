@@ -1,7 +1,7 @@
 # Data_structures and algorithms
 Here's written in C++ implementations of data structures such as a binary search tree (which named just as tree), an avl-tree, a linked list (disordered) and a hash-map and algorithms such as a merge sort and a heap sort.
 
-Every implementation of the structures use an iterative approach in order to avoid excessive calls of function, though a recursive method is more intuitive especially for trees.
+Every implementation of the structures uses an iterative approach in order to avoid excessive calls of function, though a recursive method is more intuitive especially for trees.
 
 Descriptions of mentioned structres you can find everywhere in the Web, so I only notice to the time complexity in big O notation:
 1. BS tree: Average case   Worst case
